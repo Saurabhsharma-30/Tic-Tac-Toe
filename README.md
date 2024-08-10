@@ -1,9 +1,3 @@
-# Tic-Tac-Toe
-
-Certainly! Here’s a sample README.md file for your Tic-Tac-Toe game implementation on GitHub:
-
----
-
 # Tic-Tac-Toe with Minimax Algorithm
 
 A simple console-based Tic-Tac-Toe game where a player competes against a computer. The computer uses the Minimax algorithm to make optimal moves, ensuring the best possible outcome.
@@ -75,10 +69,6 @@ X | O |
 ## Contributing
 
 Feel free to fork the repository, make changes, and submit pull requests. Contributions and feedback are welcome!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
